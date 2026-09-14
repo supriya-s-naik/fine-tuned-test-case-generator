@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+outputs/
+qwen3_test_case_generator/
+evaluation_predictions.csv
+evaluation_summary.csv
+training_curve.png
+baseline_vs_finetuned.png
+course-reference/
+.docx_render/
