@@ -10,3 +10,8 @@ training_curve.png
 baseline_vs_finetuned.png
 course-reference/
 .docx_render/
+~$*.docx
+*.mp4
+*adapter*.zip
+week5_*_results.zip
+Week5_Test_Case_Generator_Submission.docx
